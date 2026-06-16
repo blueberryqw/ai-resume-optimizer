@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.env
+app_backup_before_ui.py
